@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin"
+          fetch=".." />
+
+  <default remote="origin"
+           revision="main"
+           sync-j="4" />
+
+</manifest>
+
