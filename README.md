@@ -29,10 +29,8 @@ sudo apt-get install repo
 Clone and initialize this repository:
 
 ```bash
-repo init -u <url-to-this-repo> -b main
+repo init -u https://github.com/kibshh/smart-home-meta.git -b main
 ```
-
-Replace `<url-to-this-repo>` with the Git URL of this repository.
 
 ## Syncing Repositories
 
