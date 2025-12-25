@@ -1,3 +1,7 @@
+# ⚠️ DEPRECATED
+
+This repository is no longer maintained.
+
 # Smart Home Meta Repository
 
 Repository orchestration using Google Repo tool.
